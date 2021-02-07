@@ -1,0 +1,101 @@
+.heading-one{
+    padding: 1rem;
+}
+
+.wa{
+    padding: 1rem;
+}
+
+.fb{
+    padding: 1rem;
+}
+
+.insta{
+    padding: 1rem;
+}
+
+.mo{
+    padding: 1rem;
+}
+
+.cu{
+    padding: 1rem;
+}
+.heading-right{
+    text-align: right;
+    list-style: none;
+    /* display: inline-flex; */
+
+}
+
+.inline-list{
+    display: flex;
+    list-style: none;
+    padding: 2rem;
+    background-color: dodgerblue;
+    
+}
+
+.home {
+    padding: 1rem;
+    font-weight: 600;
+    text-decoration: black;
+}
+.au{
+    padding: 1rem;
+    font-weight: 600;
+    text-decoration: black;
+} 
+.bs {
+    padding: 1rem;
+    text-decoration: black;
+    font-weight: 600;
+}
+.pricing{
+    padding: 1rem;
+    text-decoration: black;
+    font-weight: 600;
+}
+.conus{
+    padding: 1rem;
+    text-decoration: black;
+    font-weight: 600;
+}
+
+.left-section{
+    padding: 10rem;
+    background-image: url(https://images.clipartlogo.com/files/istock/previews/1037/103781165-car-repair-funny-mechanic-vector-cartoon-illustration.jpg);
+}
+
+.head-line{
+    font-weight: 1000;
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(9, 18, 148);
+    
+}
+.sub-head-line{
+    font-size: 1.5rem;
+    font-weight: 750;
+    color:rgb(9, 18, 148);
+}
+
+.btn-button-one{
+    /* background-color: blue; */
+    color: white;
+    background-color: rgb(116, 180, 218);
+    padding: .50rem;
+}
+
+.btn-button-two{
+    color: white ;
+    padding: .50rem;
+    background-color: rgb(116, 180, 218);
+
+}
+.right-section{
+    text-align: center;
+    padding: 1rem;
+    color: blue;
+    background-color: rgb(70, 189, 153);
+}
